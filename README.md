@@ -1,3 +1,3 @@
-# Mochascript types
+# Lutetium types
 
-this is the types for the language 'mochascript'
+this is the types for the language `Lutetium`
